@@ -175,7 +175,7 @@ The process was designed so that each stage had a specific purpose:
 
 ### 🔄 End-to-End Workflow
 
-![Project Architecture](Images/architecture.png)
+![Project Architecture](images/data-work-flow.png)
 
 The workflow consisted of the following stages:
 
