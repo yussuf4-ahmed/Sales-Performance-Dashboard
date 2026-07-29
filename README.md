@@ -274,19 +274,19 @@ d
 
 ### 1. Executive Dashboard
 Focuses on macro-level KPIs including Revenue, Win Rates, Average Sales Cycle, and Regional breakdowns.  
-![Executive Dashboard](Images/executive-dashboard.png)
+![Executive Dashboard](images/executive_page-0001.jpg)
 
 ### 2. Pipeline Dashboard
 Tracks monthly opportunity creation rates, stage conversions (Won, Lost, Prospecting, Engaging), and cycle duration bottlenecks.  
-![Pipeline Dashboard](Images/pipeline-dashboard.png)
+![Pipeline Dashboard](images/pipeline_page-0002.jpg)
 
 ### 3. Sales Team Dashboard
 Evaluates individual sales agent performance, manager win rates, and regional team productivity.  
-![Sales Team Dashboard](Images/sales-dashboard.png)
+![Sales Team Dashboard](images/sales_page-0003.jpg)
 
 ### 4. Product & Account Dashboard
 Analyzes revenue generation across product lines, series performance, industry sectors, and key customer accounts.  
-![Product & Account Dashboard](Images/product-dashboard.png)
+![Product & Account Dashboard](images/product_page-0004.jpg)
 
 ---
 
