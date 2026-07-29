@@ -107,7 +107,7 @@ Business Insights
 
 ## Data Model
 
-> Insert your Power BI Star Schema screenshot here.
+> ![Data Modeling](Images/image.png)
 
 ---
 
