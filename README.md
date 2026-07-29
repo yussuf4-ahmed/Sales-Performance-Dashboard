@@ -1,4 +1,4 @@
-# 📊 Sales Performance & Pipeline Analysis Dashboard
+# Sales Performance & Pipeline Analysis Dashboard
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -9,7 +9,7 @@
 
 > An end-to-end Business Intelligence project that transforms raw CRM sales data into an interactive Power BI dashboard using SQL Server and DAX.
 
-## 📑 Table of Contents
+## Table of Contents
 - Project Overview
 - Business Problem
 - Business Objectives
@@ -25,7 +25,7 @@
 - Future Improvements
 - Author
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates the complete Business Intelligence lifecycle, from raw CRM sales data to an interactive Power BI dashboard.
 
@@ -33,7 +33,7 @@ Using SQL Server, the data was cleaned, validated, transformed into analytics-re
 
 ---
 
-## 💼 Business Problem
+## Business Problem
 
 The company collected sales data but lacked a centralized reporting solution to monitor performance, identify trends, and support business decisions.
 
@@ -48,7 +48,7 @@ The dashboard provides visibility into:
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 
 ### Executive Dashboard
 - Monitor total revenue
@@ -76,7 +76,7 @@ The dashboard provides visibility into:
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 ```text
 CSV Files
@@ -105,7 +105,7 @@ Business Insights
 
 ---
 
-## ⭐ Data Model
+## Data Model
 
 > Insert your Power BI Star Schema screenshot here.
 
@@ -126,7 +126,7 @@ Business Insights
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Sales-Performance-Dashboard
@@ -141,7 +141,7 @@ Sales-Performance-Dashboard
 
 ---
 
-## 🗃️ SQL Workflow
+## SQL Workflow
 
 | Script | Purpose |
 |---------|---------|
@@ -156,7 +156,7 @@ Sales-Performance-Dashboard
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 - Executive Dashboard
 - Pipeline Dashboard
@@ -165,13 +165,13 @@ Sales-Performance-Dashboard
 
 ---
 
-## 📈 Key Business Insights
+## Key Business Insights
 
 Replace this section with the final insights from your dashboard.
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 ### Data Engineering
 - SQL Server
@@ -197,7 +197,7 @@ Replace this section with the final insights from your dashboard.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Publish to Power BI Service
 - Automate refresh
@@ -290,7 +290,7 @@ Analyzes revenue generation across product lines, series performance, industry s
 
 ---
 
-## 📊 Key Business Insights
+## Key Business Insights
 
 - 💰 **Revenue Generation**: The enterprise achieved **~$10M** in cumulative revenue across all sales channels.
 - 🎯 **Conversion Efficiency**: Maintained an overall win rate of **63.2%**.
@@ -300,7 +300,7 @@ Analyzes revenue generation across product lines, series performance, industry s
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - **Data Engineering**: SQL Server, Data Cleaning, ETL Pipeline Design, SQL Views.
 - **Business Intelligence**: Power BI, Power Query, DAX Measures, Custom Visualizations.
@@ -309,7 +309,7 @@ Analyzes revenue generation across product lines, series performance, industry s
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - [ ] Connect Power BI directly to a live cloud SQL Server instance.
 - [ ] Publish the report to Power BI Service with dynamic workspace permissions.
