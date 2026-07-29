@@ -107,7 +107,7 @@ Business Insights
 
 ## Data Model
 
-> ![Data Modeling](Images/image.png)
+> ![Data Modeling](images/data-modeling.png)
 
 ---
 
