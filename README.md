@@ -31,7 +31,7 @@
   - [04 — Product & Account Analysis](#04--product--account-analysis)
 - [🛠️ Technical Skills Demonstrated](#️-technical-skills-demonstrated)
 - [📁 Project Structure](#-project-structure)
-- [👨‍💻 About Me](#-about-me)
+- [👨‍💻 About Me](#about-me)
 
 
 ---
@@ -746,7 +746,7 @@ Sales-Performance-Dashboard/
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hi, I'm **Yussuf Ahmed**, an ICT graduate and aspiring Data
 Engineer / BI professional with a strong interest in turning raw data into
